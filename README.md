@@ -9,3 +9,6 @@ CIS 212 assignment to set-up a git hub environment
 - [x] git version (2.51.0) installed
 - [x] git config William Henderson/whenderson10@student.ccc.edu
 - [x] git ssh key (Hi WillHenderson141! You've successfully authenticated, but GitHub does not provide shell access.)
+
+REFLECTION 
+Once I realized the differnt programs I would need everything went over smoothly although hands down the easiest part is setting up the account and the two step authentication. The confusing part to me was dealing with the ssh-key because I had to turn ssh on and then automate it. Through this process however I leared more about git bash and how to operate within that CLI.
