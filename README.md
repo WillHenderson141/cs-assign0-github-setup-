@@ -1,4 +1,7 @@
 # cs-assign0-github-setup-
+About Me
+This is my first program and use of github and plan of using it far more throughout my career. This checklist provides a physical list of items needed to complete the assignment.
+
 CIS 212 assignment to set-up a git hub environment
 - [x] GitHub account active
 - [x] 2FA enabled (app-based)
